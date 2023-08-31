@@ -27,7 +27,6 @@ function showDivs(n) {
     }//fungsi foor loop untuk pengulangan 
 
     imgList[slideIndex - 1].style.display = "block";
-
 }
 
 setInterval(() => {
